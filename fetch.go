@@ -6,5 +6,5 @@ import(
 )
 
 func main(){
-	fmt.Println(GOLANG.one_value)
+	fmt.Println(one_value)
 }
